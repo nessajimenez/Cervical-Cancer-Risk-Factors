@@ -44,3 +44,4 @@ Through the use of Randomized Search we found that LogisticRegression with param
 ## Presentation
 
 Link - https://www.canva.com/design/DAGHw-5U4jg/D4Zp5sPMn3U5NrrIl9gpcQ/edit
+Trello - https://trello.com/b/6WdwLT4G/machine-learning-project
